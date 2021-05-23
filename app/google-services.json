@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "584049120063",
+    "project_id": "insertioninrealtimefirebaseb",
+    "storage_bucket": "insertioninrealtimefirebaseb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584049120063:android:0d3eb37e65b8e48eac398a",
+        "android_client_info": {
+          "package_name": "com.example.insertioninrealtimefirebasebycw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584049120063-o3goo5eq8367de0kubitc30mlt3e00vt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7mh1bI5nJagZcEtg4XZKNxD_NkC8Uc4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584049120063-o3goo5eq8367de0kubitc30mlt3e00vt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
